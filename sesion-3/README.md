@@ -1,5 +1,17 @@
-## Ejercicio sesión 3
-Para este ejercicio deberéis introducir una imagen y darle además de un texto alternativo.
+## Ejercicios sesión 4
+Para comenzar a trabajar con CSS, crearéis un documento HTML y otro CSS, en el primero habrá:
 
 
-Aparte, añadiréis un audio y un vídeo a vuestra elección, deben tener algunos de los atributos vistos en las sesiones u otros que os parezcan interesantes.
+
+Un párrafo.
+
+Otro párrafo con una class miparrafo.
+
+
+Con CSS deberás hacer que:
+
+
+
+De manera universal se aplique un color a vuestra elección para el texto.
+
+Los elementos que tengan la class miparrafo deberán presentar su texto en cursiva.

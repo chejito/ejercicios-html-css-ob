@@ -1,0 +1,17 @@
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  list-style: 20px;
+  font-weight: 500;
+  color: crimson;
+}
+
+p {
+  background-color: antiquewhite;
+}
+
+.miparrafo {
+  font-style: italic;
+}

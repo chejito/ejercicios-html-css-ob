@@ -1,4 +1,4 @@
-## Ejercicio sesión 2
+# Ejercicio sesión 2
 
 Crea un formulario en el que haya que introducir los siguientes datos: Nombre, Apellido, e-mail, teléfono y dirección.
 

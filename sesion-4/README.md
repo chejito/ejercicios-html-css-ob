@@ -1,8 +1,17 @@
-# Ejercicio sesión 1
-Genera un documento HTML en el que haya dos niveles de encabezados.
+# Ejercicios sesión 4
+Para comenzar a trabajar con CSS, crearéis un documento HTML y otro CSS, en el primero habrá:
 
-Después del primer encabezado habrá un párrafo y un enlace.
 
-Después del segundo encabezado habrá dos contenedores, a su vez dentro de cada contenedor deberá haber una lista ordenada y otra desordenada, el contenido de estas listas queda a vuestra elección.
 
-Como parte final del ejercicio, tendréis que añadir atributos a los contenedores para que tengan un color de fondo.
+Un párrafo.
+
+Otro párrafo con una class miparrafo.
+
+
+Con CSS deberás hacer que:
+
+
+
+De manera universal se aplique un color a vuestra elección para el texto.
+
+Los elementos que tengan la class miparrafo deberán presentar su texto en cursiva.
